@@ -42,7 +42,7 @@ span{
     border-bottom: 3px solid transparent;
     transition: 0.3s ease;
     padding: 5px;
-    box-shadow: 0 0 30px orange;
+    box-shadow: 0 0 30px rgba(190, 204, 167, 0.918);
     border-radius: 10px;
 
 }
