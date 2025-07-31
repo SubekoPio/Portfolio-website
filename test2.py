@@ -10,7 +10,7 @@ from datetime import datetime
 
 db_config = {
     'user': 'root',
-    'password': 'subeko223',  # Replace with your MySQL password
+    'password': 'subeko223', 
     'host': 'localhost',
     'database': 'management'
 }
